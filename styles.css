@@ -12,8 +12,9 @@ header nav{
 }
 
 img{
-    width:30%;
-    margin:calc(10%/6);
+    width:28%;
+    margin:calc(16%/6);
+    border-radius:8%;
     box-shadow: 0.5em 0.5em 1em 0.30em #797A7E;
     transition: all 0.25s;
 }
